@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @arav1ndb
+- 👀 I’m interested in game-dev,ml
+- 🌱 I’m currently learning Comp-Sci Engineering
+- 💞️ I’m looking to collaborate on Small-scale fun projects
